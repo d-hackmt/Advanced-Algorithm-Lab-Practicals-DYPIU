@@ -12,6 +12,8 @@ Here are the algorithms currently available in this repository:
 
 🌲 Prim's algorithm
 
+🧮 Matrix Multiplication
+
 👸 N-Queen problem
 
 🎨 Graph coloring
