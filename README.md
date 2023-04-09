@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub repository for advanced algorithms, designed specifically for MCA students at DYP International University! In this repository, you'll find implementations of various algorithms, including sorting, graph algorithms, dynamic programming, and more.
 
- ##📜 Algorithms
+## 📜 Algorithms
 
 Here are the algorithms currently available in this repository:
 
@@ -17,6 +17,8 @@ Here are the algorithms currently available in this repository:
 👸 N-Queen problem
 
 🎨 Graph coloring
+
+🏗️ Tower of Hanoi
 
 🎒 Knapsack problem
 
